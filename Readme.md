@@ -181,9 +181,7 @@ javac 1.8.0_282
 
 7. 将生成的apk文件在安卓手机进行安装, 即可完成对目标的控制
 
-<video id="video" controls="" height="500px"  preload="none" poster="./images/run.png">
-	<source id="mp4" src="./images/show.mp4" type="video/mp4">
-</video>
+![show](images/show.webp)
 
 8. 成功后, 可以在msf中进行远程控制
 
@@ -238,12 +236,12 @@ javac 1.8.0_282
 
 * 华为
 
-<img src="images/huawei.jpg" alt="huawei" style="zoom: 25%;" />
+![huawei](images/huawei.jpg)
 
 * 小米
 
-<img src="images/mi.png" alt="mi" style="zoom:35%;" />
+![mi](images/mi.png)
 
 * OPPO
 
-<img src="images/oppo.jpg" alt="oppo" style="zoom:30%;" />
+![oppo](images/oppo.jpg)
